@@ -1,6 +1,6 @@
 # 👋 Oi, eu sou a Karen!
 
-🎓 Estudante de tecnologia no IFSP 
+🎓 Estudante de tecnologia
 💻 Atualmente aprendendo programação em C  
 📍 Capivari - SP  
 
