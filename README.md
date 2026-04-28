@@ -1,8 +1,7 @@
 # 👋 Oi, eu sou a Karen!
 
-🎓 Estudante de tecnologia  
+🎓 Estudante de ADS no IFSP - Campus Capivari 
 💻 Atualmente aprendendo programação em C  
-📍 Capivari - SP  
 
 ---
 
