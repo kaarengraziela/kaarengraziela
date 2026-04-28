@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Oi, eu sou a Karen!
 
-<!--
-**kaarengraziela/kaarengraziela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de tecnologia  
+💻 Atualmente aprendendo programação em C  
+📍 Capivari - SP  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Sobre mim
+Estou no começo da minha jornada na programação e aprendendo lógica de programação.  
+Gosto de tecnologia e quero evoluir cada vez mais na área 💪  
+
+---
+
+## 🛠️ O que estou aprendendo
+- Linguagem C  
+- Lógica de programação  
+- Git e GitHub  
+
+---
+
+## 📚 Meus estudos
+Aqui você vai encontrar exercícios e projetos simples que estou desenvolvendo durante meus estudos.
+
+---
+
+## 🚀 Objetivo
+Me tornar uma desenvolvedora e trabalhar na área de tecnologia.
+
+---
+
+## 📫 Contato
+(Em breve)
