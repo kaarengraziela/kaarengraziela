@@ -1,6 +1,6 @@
 # 👋 Oi, eu sou a Karen!
 
-🎓 Estudante de ADS no IFSP - Campus Capivari 
+🎓 Estudante de ADS no IFSP - Campus Capivari   
 💻 Atualmente aprendendo programação em C  
 
 ---
